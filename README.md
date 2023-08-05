@@ -1,4 +1,4 @@
-![Search](https://github.com/Arsal2000/Automated-Tutor-FYP/assets/45012260/3977acf2-413a-4538-9076-72b29fb784d8)# Automated-Tutor-FYP
+# Automated-Tutor-FYP
 The "Automated Tutor" is a platform that saves users time by summarizing information on a given topic from the top 10 websites. It extracts the most relevant details to present concise and clear summaries, eliminating the need to search multiple web pages. It helps users save time and effort during internet searches.
 
 ## Visual Representation
