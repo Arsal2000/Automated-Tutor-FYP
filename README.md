@@ -17,7 +17,8 @@ The "Automated Tutor" is a platform that saves users time by summarizing informa
 
 #### Results Page
 ![Results](https://github.com/Arsal2000/Automated-Tutor-FYP/assets/45012260/41bd6568-32d4-468d-96dd-f663f6c0cb1d)
+![Results 2](https://github.com/Arsal2000/Automated-Tutor-FYP/assets/45012260/9dd0a213-353a-4a53-a0f2-e0d05ffcd18e)
 
 #### Summary Generated Page
 ![Summary generated](https://github.com/Arsal2000/Automated-Tutor-FYP/assets/45012260/3382c429-bdac-4c09-898d-8180615f13ce)
-![Summary generated 2](https://github.com/Arsal2000/Automated-Tutor-FYP/assets/45012260/6dc9e488-dadb-48a4-9c0d-74034ac7ead3)
+![Summary generated 2](https://github.com/Arsal2000/Automated-Tutor-FYP/assets/45012260/98eb5243-e0bd-4f2b-8a0e-30b9c330b80e)
